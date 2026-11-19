@@ -238,24 +238,4 @@ Content-Type: application/json
 
 ---
 
-## 🤝 Contributing
 
-Suggestions and improvements are welcome. Feel free to open an issue or submit a pull request.
-
-## 📄 License
-
-This project is released under the [MIT License](LICENSE).
-
-## 👤 Author
-
-**Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
-
----
-
-<div align="center">
-
-⭐ If you find this repository useful, consider giving it a star!
-
-</div>
